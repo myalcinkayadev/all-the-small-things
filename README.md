@@ -8,6 +8,14 @@
 
 **The shape of the building is screaming at me what its intention is I am a library I’m there to hold books, it is screaming at me what its intention is and that’s what the architecture of a building ought to do and that’s what the architecture of a software system ought to do it ought to scream at me** what its intention is what it’s for what its requirements are what is use cases are, architecture is about intent the shape of the system the way its components have organized the dependencies between those components is about the intent of the system not about what it’s built around.
 
+### Use cases
+
+The first bullet—use cases—means that the architecture of the system must support the intent of the system.
+
+The use cases of that system will be plainly visible within the structure of that system. **Developers will not have to hunt for behaviors, because those behaviors will be first-class elements visible at the top level of the system.** Those elements will be classes or functions or modules that have prominent positions within the architecture, and they will have names that clearly describe their function.
+
+Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) - Page 148
+
 ### **Hexagonal Architecture**
 
 (Ports and Adapters Architecture)
