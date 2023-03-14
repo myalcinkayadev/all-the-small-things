@@ -18,12 +18,17 @@
 
 ```
 https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+https://alistair.cockburn.us/hexagonal-architecture/
 ```
 
 - Created before Clean Architecture
 - Share the same **objective**, which is the **separation of concerns**
 - Hexagonal architecture does **not** define implementation details
 - Dependency Inversion Principle (SOLI**D**)
+
+![hexagonal-flow-diagram](assets/images/hexagonal-flow-diagram.jpg)
+
+Source: https://github.com/AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project
 
 ### **About frameworks:**
 
