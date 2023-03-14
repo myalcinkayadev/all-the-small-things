@@ -1,3 +1,5 @@
+## What is most personal is most universal - Carl R. Rogers
+
 ### **Screaming Architecture**
 
 ![kutuphane-plani](assets/images/screaming-architecture-first-floor.jpg)
