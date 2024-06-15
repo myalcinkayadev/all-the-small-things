@@ -36,7 +36,7 @@ https://alistair.cockburn.us/hexagonal-architecture/
 
 ![hexagonal-flow-diagram](assets/images/hexagonal-flow-diagram.jpg)
 
-Source: https://github.com/AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project
+Image source: https://github.com/AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project
 
 ### **Bjarne Stroustrup’s School OOP**
 
